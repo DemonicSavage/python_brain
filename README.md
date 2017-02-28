@@ -8,3 +8,6 @@ Usage:
     ./main.py > output
 
     python3 output
+
+The example program included is the ROT-13 implementation, found on 
+Wikipedia.
