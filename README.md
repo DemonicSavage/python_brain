@@ -1,5 +1,6 @@
 # python_brain
-Brainfuck to Python 3 translator written in Python 3. Sort of works.
+Brainfuck to Python 3 translator written in Python 3. Sort of works. I 
+guess.
 
 Needs `readchar` Python package.
 
